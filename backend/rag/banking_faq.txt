@@ -1,0 +1,17 @@
+# Example banking FAQ knowledge base for RAG
+# Add more Q&A pairs as needed
+
+What is a savings account?
+A savings account is a deposit account held at a financial institution that provides principal security and a modest interest rate.
+
+How can I check my account balance?
+You can check your account balance via online banking, mobile app, ATM, or by visiting your branch.
+
+What is UPI?
+UPI (Unified Payments Interface) is a real-time payment system developed by NPCI for instant money transfers between banks in India.
+
+How do I apply for a personal loan?
+You can apply for a personal loan online, through mobile banking, or by visiting your nearest branch. Eligibility criteria apply.
+
+What is an overdraft?
+An overdraft is a credit facility that allows you to withdraw more money than your account balance, up to a specified limit.
